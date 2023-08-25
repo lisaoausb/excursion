@@ -1,31 +1,31 @@
-.body {
+body {
     background-color: black;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
-.h1 {
+h1 {
 
     font-weight: normal;
     font-size: 50px;
 }
 
-.h2 {
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
-.p {
+p {
     font-size: 21px;
     color: grey;
 }
 
-#download-link {
+.download-link {
     color: aquamarine;
     font-size: 16px;
 }
 
-#copyright {
+.copyright {
     text-align: right;
 }
